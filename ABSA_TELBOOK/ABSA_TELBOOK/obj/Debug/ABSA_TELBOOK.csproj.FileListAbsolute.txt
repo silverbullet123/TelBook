@@ -1,0 +1,170 @@
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\jQueryAjaxInAsp.NETMVC.dll.config
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\jQueryAjaxInAsp.NETMVC.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\jQueryAjaxInAsp.NETMVC.pdb
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Antlr3.Runtime.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\EntityFramework.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Newtonsoft.Json.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Owin.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.Helpers.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.Mvc.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.Optimization.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.Razor.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.WebPages.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\WebGrease.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\EntityFramework.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.Helpers.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.Mvc.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.Razor.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.WebPages.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\System.Web.Optimization.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Newtonsoft.Json.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\obj\Debug\ABSA_TELBOOK.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\obj\Debug\ABSA_TELBOOK.csproj.CopyComplete
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\obj\Debug\jQueryAjaxInAsp.NETMVC.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\jQueryAjaxInAsp.NETMVC\jQueryAjaxInAsp.NETMVC\obj\Debug\jQueryAjaxInAsp.NETMVC.pdb
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\jQueryAjaxInAsp.NETMVC.dll.config
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\jQueryAjaxInAsp.NETMVC.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\jQueryAjaxInAsp.NETMVC.pdb
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Antlr3.Runtime.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\EntityFramework.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\EntityFramework.SqlServer.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Newtonsoft.Json.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Owin.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Helpers.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Mvc.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Optimization.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Razor.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\WebGrease.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\EntityFramework.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\EntityFramework.SqlServer.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Helpers.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Mvc.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Razor.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Optimization.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Newtonsoft.Json.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Antlr3.Runtime.pdb
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\obj\Debug\ABSA_TELBOOK.csprojAssemblyReference.cache
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\obj\Debug\ABSA_TELBOOK.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\obj\Debug\ABSA_TELBOOK.csproj.CopyComplete
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\obj\Debug\jQueryAjaxInAsp.NETMVC.dll
+C:\Users\Dinesh Sookdeyu\Desktop\absa\Code\jQueryAjaxInAsp.NETMVC (1)\ABSA_TELBOOK\ABSA_TELBOOK\obj\Debug\jQueryAjaxInAsp.NETMVC.pdb
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\jQueryAjaxInAsp.NETMVC.dll.config
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\jQueryAjaxInAsp.NETMVC.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\jQueryAjaxInAsp.NETMVC.pdb
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Antlr3.Runtime.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\EntityFramework.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\EntityFramework.SqlServer.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Newtonsoft.Json.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Owin.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Helpers.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Mvc.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Optimization.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Razor.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\WebGrease.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\EntityFramework.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\EntityFramework.SqlServer.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Helpers.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Mvc.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Razor.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\System.Web.Optimization.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Newtonsoft.Json.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Antlr3.Runtime.pdb
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\obj\Debug\ABSA_TELBOOK.csprojAssemblyReference.cache
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\obj\Debug\ABSA_TELBOOK.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\obj\Debug\ABSA_TELBOOK.csproj.CopyComplete
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\obj\Debug\jQueryAjaxInAsp.NETMVC.dll
+C:\Users\Dinesh Sookdeyu\source\repos\ABSAPhonebook\ABSA_TELBOOK\ABSA_TELBOOK\obj\Debug\jQueryAjaxInAsp.NETMVC.pdb

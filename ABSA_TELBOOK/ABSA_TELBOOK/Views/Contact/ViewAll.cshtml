@@ -1,0 +1,58 @@
+﻿@model IEnumerable<jQueryAjaxInAsp.NETMVC.Models.Contact>
+
+@{
+    ViewBag.Title = "ViewAll";
+    Layout = null;
+}
+
+<table class="table table-striped table-condensed" id="employeeTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Surname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContactNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AlternateContactNo)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.ImagePath)
+            </th>*@
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Surname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContactNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AlternateContactNo)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.ImagePath)
+            </td>*@
+            <td>
+                <a class="btn btn-primary btn-sm" onclick="Edit('@Url.Action("AddOrEdit", "Contact", new { id=@item.ContactID})')"><i class="fa fa-pencil fa-lg"></i></a>
+                <a class="btn btn-danger btn-sm" onclick="Delete('@Url.Action("Delete", "Contact", new { id=@item.ContactID})')"><i class="fa fa-trash fa-lg"></i></a>
+            </td>
+        </tr>
+        }
+
+    </tbody>
+</table>
